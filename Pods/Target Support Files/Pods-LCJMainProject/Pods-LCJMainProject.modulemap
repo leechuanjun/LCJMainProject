@@ -1,0 +1,6 @@
+framework module Pods_LCJMainProject {
+  umbrella header "Pods-LCJMainProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
